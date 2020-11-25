@@ -1,0 +1,8 @@
+{
+  _id: 5fbe6839462a100fb8b2d49b,
+  fullName: 'dheeraj',
+  phone: '9493408859',
+  email: 'polimeradheeraj1@gmail.com',
+  password: '$2a$08$GKjhDhIogZq0N5wJfHZIiOgpGu4wzmcenJRdBYByWmXPs.xWfsC1.',
+  createdAt: 2020-11-25T14:20:41.550Z
+}
