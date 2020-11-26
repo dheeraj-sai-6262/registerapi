@@ -1,6 +1,0 @@
-{
-  _id: 5fbe685e462a100fb8b2d49c,
-  email: 'polimeradheeraj1@gmail.com',
-  password: 'Dheeraj@123',
-  createdAt: 2020-11-25T14:21:18.003Z
-}

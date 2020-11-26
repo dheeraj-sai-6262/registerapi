@@ -1,8 +1,8 @@
 {
-  _id: 5fbe6839462a100fb8b2d49b,
-  fullName: 'dheeraj',
+  _id: 5fbf21495497dd352824f92d,
+  fullName: 'dheeraj sai',
   phone: '9493408859',
   email: 'polimeradheeraj1@gmail.com',
-  password: '$2a$08$GKjhDhIogZq0N5wJfHZIiOgpGu4wzmcenJRdBYByWmXPs.xWfsC1.',
-  createdAt: 2020-11-25T14:20:41.550Z
+  password: '$2a$08$xys39OnZsIek5wt2AEQjieJ2LlmWJy5lXcjACtqr5cgodn87E7fO2',
+  createdAt: 2020-11-26T03:30:17.716Z
 }
